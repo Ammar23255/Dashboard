@@ -4,6 +4,8 @@ This repository contains a comprehensive analysis of pizza sales data, focusing 
 ## Files Included
 1- Pizza Dashboard.pbix: A Power BI dashboard that visualizes pizza sales data. It includes various charts and graphs to help understand sales trends, customer preferences, and performance metrics.
 
+1- Pizza Dashboard.xlsx: An Excel dashboard that visualizes pizza sales data. It includes various charts and graphs to help understand sales trends, customer preferences, and performance metrics.
+
 2- Pizza.sql: A SQL script used to extract and manipulate the pizza sales data. This script is responsible for querying the sales data, which is then used for further analysis and visualization.
 
 3- pizza_sales_excel_file.xlsx: An Excel file containing the raw data of pizza sales. This file serves as the data source for both the SQL queries and the Power BI dashboard.
@@ -25,6 +27,8 @@ Open the Pizza.sql file and run the SQL queries to extract and preprocess the da
 Load the pizza_sales_excel_file.xlsx into Power BI or use the processed data from SQL.
 
 Open the Pizza Dashboard.pbix file in Power BI to view and interact with the dashboard.
+
+Open the Pizza Dashboard.xlsx file in Excel to view and interact with the dashboard.
 
 ## Requirements
 Power BI Desktop
